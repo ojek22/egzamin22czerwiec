@@ -1,0 +1,22 @@
+.tytul{
+    background-color: rgb(46, 139, 245);
+    width: 1000px;
+    height: 100px;
+    text-decoration-color: white;
+    padding-top: 5px;
+}
+.box{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+.opis{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+}
+.ryba{
+    background-color: turquoise;
+    width: 500px;
+    height: 500px;
+}

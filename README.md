@@ -5,4 +5,6 @@ Metoda HTML+CSS
 Program VSC
 Źródło https://arkusze.pl/zawodowy/inf03-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf
 Data ukończenia
-Adres strony
+Adres strony index.html
+deplay gałąź modyfikacyjna
+pliki modyfikacyjne
